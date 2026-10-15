@@ -2,8 +2,6 @@
 
 A lightweight Roblox Studio plugin for auditioning AudioPlayers and audio nodes.
 
-This scaffold adds a toolbar button only. Preview mode, selection handling, audio
-wiring, and cleanup are intentionally left as implementation exercises.
 
 ## Setup
 
